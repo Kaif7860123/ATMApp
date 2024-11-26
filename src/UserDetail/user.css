@@ -1,0 +1,163 @@
+.atmCont{
+    width: 100%;
+}
+.atmBodys{
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+}
+.atmBodys .profile{
+    width: 50%;
+     
+}
+.atmBodys h2{
+    padding: 8px 5px;
+    color: white;
+    font-size: 30px;
+}
+.atmBodys p{
+    padding:5px 8px;
+    font-size: 25px;
+    color: white;
+}
+.atmBodys i{
+    padding: 10px;
+    color: yellow;
+    font-size: 18px;
+}
+.atmBodys .userBtn{
+    width: 50%;
+     margin-top:10px ;
+}
+.userBtn button{
+    margin-bottom: 20px;
+    margin-left: 150px;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align: center;
+    width: 160px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    color: white;
+}
+.check{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.check button{
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    color: white;
+    font-size: 22px;
+    border-radius: 10px;
+}
+.checkBalance{
+    background-color: rgb(125, 125, 4);
+
+}
+.close {
+    background-color: rgb(222, 7, 7);
+}
+.cardBody{
+    width: 40%;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 15px;
+    text-transform: uppercase;
+    position: relative;
+} 
+.cardBody h1{
+    padding: 20px;
+    color:#fff;
+    text-shadow: 0px 4px 4px #282828;
+    position: absolute;
+    top: 10px;
+}
+ img{
+    width:100%;
+     
+}
+.card{
+    display: flex;
+    position: relative;
+}
+.card i{
+    position: absolute;
+    right: 20px;
+    bottom: 170px;
+    font-size: 50px;
+    font-weight: 500;
+    color: rgb(223, 6, 6);
+text-shadow: 3px 5px 10px black;
+
+}
+.cardNumber{
+     width: 100%;
+     margin-bottom: 30px;
+     position: absolute;
+     bottom: 85px; 
+}
+.cardNumber p{
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+    color: #fff;
+    font-weight: 700;
+    text-shadow: 0px 4px 4px #282828;
+    letter-spacing: 5px;
+    
+}
+ .validity{
+    display: flex;
+    position: relative;
+     padding-bottom: 30px;
+ }
+ .validity p{
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+        position: absolute;
+        right: 30px;        
+        bottom: 50px;
+        color: #fff;  
+        font-size: 40px;
+    text-shadow: 0px 4px 4px #282828;
+
+ }
+ .validity span{
+    margin-left: 55%;
+     color: white;
+     font-size: 12px;
+     position: absolute;
+        right: 180px;        
+        bottom: 53px;
+        font-weight: 800;
+    text-shadow: 0px 4px 4px #282828;
+}
+.update{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.updatePara{
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+}
+.balance{
+    width: 100%;
+}
+.balance p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    padding: 10px;
+}
+  

@@ -1,0 +1,71 @@
+ .detailCont{
+    width: 100%;
+     
+ }
+ .cardDetail{
+    width: 40%;
+    margin: auto;
+    background-color:rgb(86, 83, 83);
+    border-radius: 10px;
+    margin-top: 40px;
+    padding: 10px;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+    position: relative;
+ }
+ .inputDiv{
+     
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-left: 25px;
+ }
+ .inputDiv input{
+    width: 100%;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    outline: none;
+ }
+ .inputDiv p{
+    color: yellow;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 400;
+ }
+ .black{
+   background-color: black;
+   width: 104%;
+   margin: 20px 0px; 
+    padding: 20px;
+    margin-left: -10px;
+ }
+ .inputBox{
+   width: 70%;
+ }
+ .pinDiv{
+   width: 30%;
+ }
+ .btn{
+   width: 40%;
+   margin: auto;
+ }
+  .btn button{
+  padding: 10px 40px;
+  font-size: 23px;
+  border: none;
+  outline: none;
+    margin: 20px 10px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+  }
+  .save{
+   background-color: rgb(6, 118, 6);
+  }
+   .close{
+      background-color: rgb(167, 7, 7);
+   }
+
+   

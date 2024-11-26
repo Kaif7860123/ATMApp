@@ -1,0 +1,46 @@
+.cont{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: auto;
+}
+.pinCont{
+    width: 30%;
+    margin-left: 130px;
+    /* margin: auto; */
+    
+}
+.pinCont img{
+    width:100px;
+    height: 100px;
+    margin: 30px 140px;
+   transition: 1s;
+}
+.pinCont p{
+    font-size: 22px;
+    color: white;
+    font-weight: 400;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.btn{
+    width: 40%;
+    margin:auto;    
+  }
+   .btn button{
+   padding: 10px 40px;
+   font-size: 23px;
+   border: none;
+   outline: none;
+   margin: 20px 10px;
+   border-radius: 10px;
+   color: white;
+   cursor: pointer;
+   
+
+   }
+   .close{
+     background-color: rgb(167, 7, 7);
+ }
